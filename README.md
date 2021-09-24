@@ -24,7 +24,7 @@ A method to generate alternate explanations for the part of the input, which is 
 <!-- ![](image_completion_fig.png) -->
 
 ## Repository contents
-* The whole idea is implemented in [OISE-prototype.ipynb](XYZ.ipynb) notebook, it's done in Keras, and can be easily tweaked to work using other framework as it is model-agnotic in nature.
+* The whole idea is implemented in [saliency-variations-prototype.ipynb](Generate(224x224)-alternate-explanations-of-mask.ipynb) notebook, it's done in Keras, and can be easily tweaked to work using other framework as it is model-agnotic in nature.
 <!-- * [Saliency](Saliency.ipynb) notebook demonstrates the usage of RISE class optimized for PyTorch. -->
 <!-- * [Evaluation](Evaluation.ipynb) notebook displays another contribution of the paper: *Causal metrics*. -->
 
