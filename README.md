@@ -35,4 +35,4 @@ A method to generate alternate explanations for the part of the input, which is 
 
 
 # Acceptable Generated Variations  
-![](acceptable_variations_results_1.png)
+![](acc_variations.png)
